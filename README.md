@@ -1,1 +1,1 @@
-# ajs_hw_12
+# ajs_typescript
